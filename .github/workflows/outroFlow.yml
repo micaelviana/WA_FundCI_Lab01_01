@@ -1,7 +1,7 @@
 name: Outro Flow
 on:
  schedule:  
-  - cron: '*/5 * * * *'
+  - cron: '*/1 * * * *'
 jobs:
   first-job:
     runs-on: ubuntu-latest
